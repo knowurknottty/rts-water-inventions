@@ -23,8 +23,16 @@
 | 19 | 09-pipeline-leak-detector/ | Pipeline Leak Detector | 4B people |
 | 20 | 10-water-quality-sentinel/ | Water Quality Sentinel | 2B people |
 
+## Evidence Ladder
+
+Every invention includes an Evidence Ladder with: Problem, Current Best Solution, Novel Contribution, Physical Principle, Confidence, Verification Status, Failure Modes, Cost Estimate, Open Questions, and Cross-domain Links.
+
+## Negative Results
+
+See NEGATIVE-RESULTS.md for dead ends, disproven hypotheses, and failed prototypes.
+
 Each directory contains the full paper, proof path, build instructions, and project scaffolding.
 
 ## License
 
-Open source — no patents, no restrictions. Built by Inversion Labs for humanity.
+Open source -- no patents, no restrictions. Built by Inversion Labs for humanity.

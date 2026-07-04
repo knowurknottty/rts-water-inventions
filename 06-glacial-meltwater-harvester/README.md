@@ -88,7 +88,26 @@ Dockerfile         Container build
 ### Contributing
 Pull requests welcome. Please open an issue first to discuss changes.
 
-### License
+#
+
+---
+
+## Evidence Ladder
+
+| Field | Value |
+|-------|-------|
+| **Problem** | [Measurable problem exists] |
+| **Current Best Solution** | [State of the art today] |
+| **Novel Contribution** | [Exactly what is new] |
+| **Physical Principle** | [Why it should work] |
+| **Confidence** | [0-100%] |
+| **Verification Status** | Hypothesis / Simulation / Prototype / Bench Tested / Independent Replication |
+| **Failure Modes** | [Why it may fail] |
+| **Cost Estimate** | Prototype: $X / Production: $Y |
+| **Open Questions** | [Unknowns remaining] |
+| **Cross-domain Links** | [Related inventions] |
+
+## License
 Open source — no patents, no restrictions. Built by Inversion Labs for humanity.
 
 ---
